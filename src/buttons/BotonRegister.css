@@ -1,0 +1,10 @@
+.boton-register{
+    color: white;
+    width: 350px;
+    height: 40px;
+    background-color: rgb(24, 23, 48);
+    position: absolute;
+    top: 320px;
+    cursor: pointer;
+    font-family: sans-serif;
+}

@@ -1,0 +1,8 @@
+.contraseña{
+    position: absolute;
+    width: 350px;
+    height: 40px;
+    top: 240px;
+    background-color: white;
+    border: 1px solid rgb(167, 167, 167);
+}

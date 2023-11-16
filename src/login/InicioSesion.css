@@ -1,0 +1,39 @@
+.bloque{
+    width: 400px;
+    height: 500px;
+    background-color: white;
+    position: absolute;
+    top: 135px;
+    left: 850px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.titulo{
+    background-color: white;
+    margin-left: 20px;
+    font-family: sans-serif;
+}
+.parrafoUno{
+    width: 90%;
+    background-color: white;
+    margin-top: 300px;
+    display: flex;
+    justify-content: center;
+    font-family: sans-serif;
+    position: absolute;
+    top: 15px;
+}
+.parrafoDos{
+    background-color: white;
+    font-family: sans-serif;
+    position: absolute;
+    top: 380px;
+    margin-bottom: 20px;
+}
+strong{
+    background-color: white;
+    cursor: pointer;
+    font-family: sans-serif;
+}
